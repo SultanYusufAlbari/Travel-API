@@ -22,4 +22,4 @@
 - Untuk menjalankan project Travel API ketik `npm run letsgo` (jangan lupa untuk migrate dan seed sebelumnya)
 
 ##### ERD Database
-<img align="center" src="travel-api/db_travel.drawio.png" />
+<img align="center" src="db_travel.drawio.png" />
