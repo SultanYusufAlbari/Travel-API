@@ -20,7 +20,7 @@
   "scripts": {
     "lint": "npx eslint travel-api --fix",
     "sudah-fix": "node authentication-migrate/server.js",
-    "dev": "node travel-api/server.js"
+    "letsgo": "node travel-api/server.js"
   },
   "keywords": [],
   "author": "",
