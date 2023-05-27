@@ -1,5 +1,9 @@
-# Travel-API
-## Tugas Project Travel API
+# Fix Bugs & Travel API
+## Tugas Project Fix Bugs Authentication Migrate
+- Todo List:
+  - [x] Merapihkan Code
+  - [x] Memperbaiki Code Error Hingga Bisa Run
+### Tugas Project Travel API
 - Membuat API pemesanan travel
 - Todo List:
   - [x] Membuat Model MVC
